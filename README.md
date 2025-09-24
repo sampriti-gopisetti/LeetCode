@@ -4,7 +4,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 
 ## 📊 Progress Overview
 
-- **Total Problems Solved**: 24
+- **Total Problems Solved**: 25
 - **Languages Used**: Python
 - **Last Updated**: September 2025
 
@@ -30,6 +30,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 ### Sliding Window
 - [3. Longest Substring Without Repeating Characters](3.%20Longest%20Substring%20Without%20Repeating%20Characters.py) - Medium
 - [424. Longest Repeating Character Replacement](424.%20Longest%20Repeating%20Character%20Replacement.py) - Medium
+- [567. Permutation in String](567.%20Permutation%20in%20String.py) - Medium
 
 ### Stack
 - [20. Valid Parentheses](20.%20Valid%20Parentheses.py) - Easy
@@ -71,6 +72,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 | 242. Valid Anagram | Easy | Hash Table, String, Sorting | [Solution](242.%20Valid%20Anagram.py) |
 | 347. Top K Frequent Elements | Medium | Array, Hash Table, Divide and Conquer, Sorting | [Solution](347.%20Top%20K%20Frequent%20Elements.py) |
 | 424. Longest Repeating Character Replacement | Medium | Hash Table, String, Sliding Window | [Solution](424.%20Longest%20Repeating%20Character%20Replacement.py) |
+| 567. Permutation in String | Medium | Hash Table, String, Sliding Window | [Solution](567.%20Permutation%20in%20String.py) |
 | 739. Daily Temperatures | Medium | Array, Stack, Monotonic Stack | [Solution](739.%20Daily%20Temperatures.py) |
 | 853. Car Fleet | Medium | Array, Stack, Sorting, Monotonic Stack | [Solution](853.%20Car%20Fleet.py) |
 | Encode and Decode Strings | Medium | Array, String, Design | [Solution](Encode%20and%20Decode%20Strings.py) |
@@ -78,7 +80,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 ## 💡 Problem Difficulty Distribution
 
 - **Easy**: 6 problems
-- **Medium**: 16 problems  
+- **Medium**: 17 problems  
 - **Hard**: 2 problems
 
 ## 🛠️ Technologies Used

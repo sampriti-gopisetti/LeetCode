@@ -4,7 +4,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 
 ## 📊 Progress Overview
 
-- **Total Problems Solved**: 25
+- **Total Problems Solved**: 26
 - **Languages Used**: Python
 - **Last Updated**: September 2025
 
@@ -29,6 +29,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 
 ### Sliding Window
 - [3. Longest Substring Without Repeating Characters](3.%20Longest%20Substring%20Without%20Repeating%20Characters.py) - Medium
+- [76. Minimum Window Substring](76.%20Minimum%20Window%20Substring.py) - Hard
 - [424. Longest Repeating Character Replacement](424.%20Longest%20Repeating%20Character%20Replacement.py) - Medium
 - [567. Permutation in String](567.%20Permutation%20in%20String.py) - Medium
 
@@ -60,6 +61,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 | 36. Valid Sudoku | Medium | Array, Hash Table | [Solution](36.%20Valid%20Sudoku.py) |
 | 42. Trapping Rain Water | Hard | Array, Two Pointers, Dynamic Programming, Stack | [Solution](42.%20Trapping%20Rain%20Water.py) |
 | 49. Group Anagrams | Medium | Array, Hash Table, String, Sorting | [Solution](49.%20Group%20Anagrams.py) |
+| 76. Minimum Window Substring | Hard | Hash Table, String, Sliding Window | [Solution](76.%20Minimum%20Window%20Substring.py) |
 | 84. Largest Rectangle in Histogram | Hard | Array, Stack, Monotonic Stack | [Solution](84.%20Largest%20Rectangle%20in%20Histogram.py) |
 | 121. Best Time to Buy and Sell Stock | Easy | Array, Dynamic Programming | [Solution](121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) |
 | 125. Valid Palindrome | Easy | Two Pointers, String | [Solution](125.%20Valid%20Palindrome.py) |
@@ -81,7 +83,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 
 - **Easy**: 6 problems
 - **Medium**: 17 problems  
-- **Hard**: 2 problems
+- **Hard**: 3 problems
 
 ## 🛠️ Technologies Used
 

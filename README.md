@@ -4,7 +4,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 
 ## 📊 Progress Overview
 
-- **Total Problems Solved**: 26
+- **Total Problems Solved**: 27
 - **Languages Used**: Python
 - **Last Updated**: September 2025
 
@@ -45,6 +45,9 @@ A collection of my LeetCode problem solutions implemented in Python.
 ### Greedy
 - [121. Best Time to Buy and Sell Stock](121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) - Easy
 
+### Binary Search
+- [704. Binary Search](704.%20Binary%20Search.py) - Easy
+
 ### String Encoding/Decoding
 - [Encode and Decode Strings](Encode%20and%20Decode%20Strings.py) - Medium
 
@@ -75,13 +78,14 @@ A collection of my LeetCode problem solutions implemented in Python.
 | 347. Top K Frequent Elements | Medium | Array, Hash Table, Divide and Conquer, Sorting | [Solution](347.%20Top%20K%20Frequent%20Elements.py) |
 | 424. Longest Repeating Character Replacement | Medium | Hash Table, String, Sliding Window | [Solution](424.%20Longest%20Repeating%20Character%20Replacement.py) |
 | 567. Permutation in String | Medium | Hash Table, String, Sliding Window | [Solution](567.%20Permutation%20in%20String.py) |
+| 704. Binary Search | Easy | Array, Binary Search | [Solution](704.%20Binary%20Search.py) |
 | 739. Daily Temperatures | Medium | Array, Stack, Monotonic Stack | [Solution](739.%20Daily%20Temperatures.py) |
 | 853. Car Fleet | Medium | Array, Stack, Sorting, Monotonic Stack | [Solution](853.%20Car%20Fleet.py) |
 | Encode and Decode Strings | Medium | Array, String, Design | [Solution](Encode%20and%20Decode%20Strings.py) |
 
 ## 💡 Problem Difficulty Distribution
 
-- **Easy**: 6 problems
+- **Easy**: 7 problems
 - **Medium**: 17 problems  
 - **Hard**: 3 problems
 
@@ -99,6 +103,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 - **Stack**: LIFO data structure applications
 - **String Manipulation**: Text processing and analysis
 - **Greedy Algorithms**: Optimal choice strategies
+- **Binary Search**: Efficient searching in sorted arrays
 - **Dynamic Programming**: Optimization problems
 
 ## 🔧 How to Use

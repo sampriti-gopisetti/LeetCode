@@ -4,7 +4,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 
 ## 📊 Progress Overview
 
-- **Total Problems Solved**: 27
+- **Total Problems Solved**: 28
 - **Languages Used**: Python
 - **Last Updated**: September 2025
 
@@ -46,6 +46,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 - [121. Best Time to Buy and Sell Stock](121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) - Easy
 
 ### Binary Search
+- [74. Search a 2D Matrix](74.%20Search%20a%202D%20Matrix.py) - Medium
 - [704. Binary Search](704.%20Binary%20Search.py) - Easy
 
 ### String Encoding/Decoding
@@ -64,6 +65,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 | 36. Valid Sudoku | Medium | Array, Hash Table | [Solution](36.%20Valid%20Sudoku.py) |
 | 42. Trapping Rain Water | Hard | Array, Two Pointers, Dynamic Programming, Stack | [Solution](42.%20Trapping%20Rain%20Water.py) |
 | 49. Group Anagrams | Medium | Array, Hash Table, String, Sorting | [Solution](49.%20Group%20Anagrams.py) |
+| 74. Search a 2D Matrix | Medium | Array, Binary Search | [Solution](74.%20Search%20a%202D%20Matrix.py) |
 | 76. Minimum Window Substring | Hard | Hash Table, String, Sliding Window | [Solution](76.%20Minimum%20Window%20Substring.py) |
 | 84. Largest Rectangle in Histogram | Hard | Array, Stack, Monotonic Stack | [Solution](84.%20Largest%20Rectangle%20in%20Histogram.py) |
 | 121. Best Time to Buy and Sell Stock | Easy | Array, Dynamic Programming | [Solution](121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) |
@@ -86,7 +88,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 ## 💡 Problem Difficulty Distribution
 
 - **Easy**: 7 problems
-- **Medium**: 17 problems  
+- **Medium**: 18 problems  
 - **Hard**: 3 problems
 
 ## 🛠️ Technologies Used

@@ -4,7 +4,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 
 ## 📊 Progress Overview
 
-- **Total Problems Solved**: 31
+- **Total Problems Solved**: 32
 - **Languages Used**: Python
 - **Last Updated**: September 2025
 
@@ -48,6 +48,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 ### Linked List
 - [21. Merge Two Sorted Lists](21.%20Merge%20Two%20Sorted%20Lists.py) - Easy
 - [141. Linked List Cycle](141.%20Linked%20List%20Cycle.py) - Easy
+- [143. Reorder List](143.%20Reorder%20List.py) - Medium
 - [206. Reverse Linked List](206.%20Reverse%20Linked%20List.py) - Easy
 
 ### Binary Search
@@ -78,6 +79,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 | 125. Valid Palindrome | Easy | Two Pointers, String | [Solution](125.%20Valid%20Palindrome.py) |
 | 128. Longest Consecutive Sequence | Medium | Array, Hash Table, Union Find | [Solution](128.%20Longest%20Consecutive%20Sequence.py) |
 | 141. Linked List Cycle | Easy | Linked List, Two Pointers | [Solution](141.%20Linked%20List%20Cycle.py) |
+| 143. Reorder List | Medium | Linked List | [Solution](143.%20Reorder%20List.py) |
 | 150. Evaluate Reverse Polish Notation | Medium | Array, Math, Stack | [Solution](150.%20Evaluate%20Reverse%20Polish%20Notation.py) |
 | 155. Min Stack | Medium | Stack, Design | [Solution](155.%20Min%20Stack.py) |
 | 167. Two Sum II - Input Array Is Sorted | Medium | Array, Two Pointers, Binary Search | [Solution](167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.py) |
@@ -96,7 +98,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 ## 💡 Problem Difficulty Distribution
 
 - **Easy**: 10 problems
-- **Medium**: 18 problems  
+- **Medium**: 19 problems  
 - **Hard**: 3 problems
 
 ## 🛠️ Technologies Used

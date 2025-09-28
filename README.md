@@ -4,7 +4,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 
 ## 📊 Progress Overview
 
-- **Total Problems Solved**: 28
+- **Total Problems Solved**: 29
 - **Languages Used**: Python
 - **Last Updated**: September 2025
 
@@ -45,6 +45,9 @@ A collection of my LeetCode problem solutions implemented in Python.
 ### Greedy
 - [121. Best Time to Buy and Sell Stock](121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) - Easy
 
+### Linked List
+- [206. Reverse Linked List](206.%20Reverse%20Linked%20List.py) - Easy
+
 ### Binary Search
 - [74. Search a 2D Matrix](74.%20Search%20a%202D%20Matrix.py) - Medium
 - [704. Binary Search](704.%20Binary%20Search.py) - Easy
@@ -74,6 +77,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 | 150. Evaluate Reverse Polish Notation | Medium | Array, Math, Stack | [Solution](150.%20Evaluate%20Reverse%20Polish%20Notation.py) |
 | 155. Min Stack | Medium | Stack, Design | [Solution](155.%20Min%20Stack.py) |
 | 167. Two Sum II - Input Array Is Sorted | Medium | Array, Two Pointers, Binary Search | [Solution](167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.py) |
+| 206. Reverse Linked List | Easy | Linked List | [Solution](206.%20Reverse%20Linked%20List.py) |
 | 217. Contains Duplicate | Easy | Array, Hash Table, Sorting | [Solution](217.%20Contains%20Duplicate.py) |
 | 238. Product of Array Except Self | Medium | Array, Prefix Sum | [Solution](238.%20Product%20of%20Array%20Except%20Self.py) |
 | 242. Valid Anagram | Easy | Hash Table, String, Sorting | [Solution](242.%20Valid%20Anagram.py) |
@@ -87,7 +91,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 
 ## 💡 Problem Difficulty Distribution
 
-- **Easy**: 7 problems
+- **Easy**: 8 problems
 - **Medium**: 18 problems  
 - **Hard**: 3 problems
 
@@ -105,6 +109,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 - **Stack**: LIFO data structure applications
 - **String Manipulation**: Text processing and analysis
 - **Greedy Algorithms**: Optimal choice strategies
+- **Linked List**: Fundamental linear data structure operations
 - **Binary Search**: Efficient searching in sorted arrays
 - **Dynamic Programming**: Optimization problems
 

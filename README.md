@@ -4,7 +4,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 
 ## 📊 Progress Overview
 
-- **Total Problems Solved**: 29
+- **Total Problems Solved**: 30
 - **Languages Used**: Python
 - **Last Updated**: September 2025
 
@@ -46,6 +46,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 - [121. Best Time to Buy and Sell Stock](121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) - Easy
 
 ### Linked List
+- [21. Merge Two Sorted Lists](21.%20Merge%20Two%20Sorted%20Lists.py) - Easy
 - [206. Reverse Linked List](206.%20Reverse%20Linked%20List.py) - Easy
 
 ### Binary Search
@@ -64,6 +65,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 | 11. Container With Most Water | Medium | Array, Two Pointers, Greedy | [Solution](11.%20Container%20With%20Most%20Water.py) |
 | 15. 3Sum | Medium | Array, Two Pointers, Sorting | [Solution](15.%203Sum.py) |
 | 20. Valid Parentheses | Easy | String, Stack | [Solution](20.%20Valid%20Parentheses.py) |
+| 21. Merge Two Sorted Lists | Easy | Linked List | [Solution](21.%20Merge%20Two%20Sorted%20Lists.py) |
 | 22. Generate Parentheses | Medium | String, Dynamic Programming, Backtracking | [Solution](22.%20Generate%20Parentheses.py) |
 | 36. Valid Sudoku | Medium | Array, Hash Table | [Solution](36.%20Valid%20Sudoku.py) |
 | 42. Trapping Rain Water | Hard | Array, Two Pointers, Dynamic Programming, Stack | [Solution](42.%20Trapping%20Rain%20Water.py) |
@@ -91,7 +93,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 
 ## 💡 Problem Difficulty Distribution
 
-- **Easy**: 8 problems
+- **Easy**: 9 problems
 - **Medium**: 18 problems  
 - **Hard**: 3 problems
 

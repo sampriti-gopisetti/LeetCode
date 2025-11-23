@@ -4,7 +4,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 
 ## 📊 Progress Overview
 
-- **Total Problems Solved**: 32
+- **Total Problems Solved**: 33
 - **Languages Used**: Python
 - **Last Updated**: November 22, 2025
 
@@ -47,6 +47,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 
 ### Linked List
 - [21. Merge Two Sorted Lists](21.%20Merge%20Two%20Sorted%20Lists.py) - Easy
+- [19. Remove Nth Node From End of List](19.%20Remove%20Nth%20Node%20From%20End%20of%20List.py) - Medium
 - [141. Linked List Cycle](141.%20Linked%20List%20Cycle.py) - Easy
 - [143. Reorder List](143.%20Reorder%20List.py) - Medium
 - [206. Reverse Linked List](206.%20Reverse%20Linked%20List.py) - Easy
@@ -68,6 +69,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 | 15. 3Sum | Medium | Array, Two Pointers, Sorting | [Solution](15.%203Sum.py) |
 | 20. Valid Parentheses | Easy | String, Stack | [Solution](20.%20Valid%20Parentheses.py) |
 | 21. Merge Two Sorted Lists | Easy | Linked List | [Solution](21.%20Merge%20Two%20Sorted%20Lists.py) |
+| 19. Remove Nth Node From End of List | Medium | Linked List | [Solution](19.%20Remove%20Nth%20Node%20From%20End%20of%20List.py) |
 | 22. Generate Parentheses | Medium | String, Dynamic Programming, Backtracking | [Solution](22.%20Generate%20Parentheses.py) |
 | 36. Valid Sudoku | Medium | Array, Hash Table | [Solution](36.%20Valid%20Sudoku.py) |
 | 42. Trapping Rain Water | Hard | Array, Two Pointers, Dynamic Programming, Stack | [Solution](42.%20Trapping%20Rain%20Water.py) |
@@ -126,29 +128,6 @@ Each solution file contains:
 - Properly documented method signatures
 - Time and space complexity considerations
 - Ready-to-run code that passes LeetCode test cases
-
-## ▶️ Run Locally
-
-- **Prerequisite**: Python 3.8+ installed.
-- To run a single solution file from the command line:
-
-```
-python "<problem file>.py"
-```
-
-- Example: `python "1. Two Sum.py"`
-
-Create a virtual environment for experiments if desired:
-
-```
-python -m venv .venv
-.venv\Scripts\activate
-```
-
-## 🤝 Contributing
-
-- Contributions are welcome — open an issue or a pull request.
-- Please keep changes focused (one problem per PR) and include a short description.
 
 ## 🎯 Future Goals
 

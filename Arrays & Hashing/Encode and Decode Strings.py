@@ -1,9 +1,10 @@
 class Solution:
-    def encode(self, strs: list[str]) -> str:
+
+    def encode(self, strs: List[str]) -> str: # type: ignore
         length=str(len(strs))
         joinedstr="("+length+")"+"sampriti".join(strs)
         return joinedstr
-    def decode(self, s: str) -> list[str]:
+    def decode(self, s: str) -> List[str]: # type: ignore
         liststr=[]
         lastindex=s.find(")")
         length=s[1:lastindex]

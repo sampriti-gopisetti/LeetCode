@@ -4,7 +4,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 
 ## 📊 Progress Overview
 
-- **Total Problems Solved**: 33
+- **Total Problems Solved**: 34
 - **Languages Used**: Python
 - **Last Updated**: November 22, 2025
 
@@ -47,6 +47,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 
 ### Linked List
 - [21. Merge Two Sorted Lists](linked_list/21.%20Merge%20Two%20Sorted%20Lists.py) - Easy
+- [2. Add Two Numbers](linked_list/2.%20Add%20Two%20Numbers.py) - Medium
 - [19. Remove Nth Node From End of List](linked_list/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.py) - Medium
 - [141. Linked List Cycle](linked_list/141.%20Linked%20List%20Cycle.py) - Easy
 - [143. Reorder List](linked_list/143.%20Reorder%20List.py) - Medium
@@ -64,6 +65,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 | Problem | Difficulty | Topic | Solution |
 |---------|------------|-------|----------|
 | 1. Two Sum | Easy | Array, Hash Table | [Solution](arrays_hashing/1.%20Two%20Sum.py) |
+| 2. Add Two Numbers | Medium | Linked List | [Solution](linked_list/2.%20Add%20Two%20Numbers.py) |
 | 3. Longest Substring Without Repeating Characters | Medium | Hash Table, String, Sliding Window | [Solution](sliding_window/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py) |
 | 11. Container With Most Water | Medium | Array, Two Pointers, Greedy | [Solution](two_pointers/11.%20Container%20With%20Most%20Water.py) |
 | 15. 3Sum | Medium | Array, Two Pointers, Sorting | [Solution](two_pointers/15.%203Sum.py) |
@@ -100,7 +102,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 ## 💡 Problem Difficulty Distribution
 
 - **Easy**: 10 problems
-- **Medium**: 20 problems  
+- **Medium**: 21 problems  
 - **Hard**: 3 problems
 
 ### Difficulty Chart
@@ -108,6 +110,8 @@ A collection of my LeetCode problem solutions implemented in Python.
 - Easy:   ██████████ 10
 - Medium: ████████████████████ 20
 - Hard:   ███ 3
+ - Medium: █████████████████████ 21
+ - Hard:   ███ 3
 
 ## 🛠️ Technologies Used
 

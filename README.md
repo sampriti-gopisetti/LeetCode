@@ -6,7 +6,7 @@ A collection of my LeetCode problem solutions implemented in Python.
 
 - **Total Problems Solved**: 32
 - **Languages Used**: Python
-- **Last Updated**: September 2025
+- **Last Updated**: November 22, 2025
 
 ## 📝 Problem Categories
 
@@ -126,6 +126,29 @@ Each solution file contains:
 - Properly documented method signatures
 - Time and space complexity considerations
 - Ready-to-run code that passes LeetCode test cases
+
+## ▶️ Run Locally
+
+- **Prerequisite**: Python 3.8+ installed.
+- To run a single solution file from the command line:
+
+```
+python "<problem file>.py"
+```
+
+- Example: `python "1. Two Sum.py"`
+
+Create a virtual environment for experiments if desired:
+
+```
+python -m venv .venv
+.venv\Scripts\activate
+```
+
+## 🤝 Contributing
+
+- Contributions are welcome — open an issue or a pull request.
+- Please keep changes focused (one problem per PR) and include a short description.
 
 ## 🎯 Future Goals
 

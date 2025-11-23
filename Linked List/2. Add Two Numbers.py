@@ -1,5 +1,3 @@
-from typing import Optional
-
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
@@ -7,8 +5,8 @@ from typing import Optional
 #         self.next = next
 
 class Solution:
-    def addTwoNumbers(self, l1: Optional['ListNode'], l2: Optional['ListNode']) -> Optional['ListNode']:
-        def reverse(linkedlist: Optional['ListNode']) -> Optional['ListNode']:
+    def addTwoNumbers(self, l1: Optional['ListNode'], l2: Optional['ListNode']) -> Optional['ListNode']: # type: ignore
+        def reverse(linkedlist: Optional['ListNode']) -> Optional['ListNode']: # type: ignore
             previous = None
             current = linkedlist
             while current:
@@ -18,7 +16,7 @@ class Solution:
                 current = temporary
             return previous
 
-        def listtostring(linkedlist: Optional['ListNode']) -> str:
+        def listtostring(linkedlist: Optional['ListNode']) -> str: # type: ignore
             list_char = []
             while linkedlist:
                 list_char.append(linkedlist.val)
@@ -36,7 +34,7 @@ class Solution:
         sumlist = None
         current = None
         for char in total:
-            node = ListNode(int(char))
+            node = ListNode(int(char)) # type: ignore
             if sumlist is None:
                 sumlist = node
                 current = node

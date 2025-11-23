@@ -1,5 +1,5 @@
 class Solution: 
-    def generateParenthesis(self, n: int) -> list[str]:
+    def generateParenthesis(self, n: int) -> List[str]: # type: ignore
         result=[]
         n_o=0
         n_c=0

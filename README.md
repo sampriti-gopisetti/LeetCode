@@ -2,9 +2,9 @@
 
 ## 📊 Progress Overview
 
-- **Total Problems Solved**: 38
+- **Total Problems Solved**: 39
 - **Languages Used**: Python
-- **Last Updated**: January 25, 2026
+- **Last Updated**: January 26, 2026
 
 ## 🚀 Quick Navigation
 
@@ -25,6 +25,7 @@
 | [74. Search a 2D Matrix](Binary%20Search/74.%20Search%20a%202D%20Matrix.py) | Binary Search | Medium |
 | [76. Minimum Window Substring](Sliding%20Window/76.%20Minimum%20Window%20Substring.py) | Sliding Window | Hard |
 | [84. Largest Rectangle in Histogram](Stack/84.%20Largest%20Rectangle%20in%20Histogram.py) | Stack | Hard |
+| [100. Same Tree](Tree/100.%20Same%20Tree.py) | Tree | Easy |
 | [104. Maximum Depth of Binary Tree](Tree/104.%20Maximum%20Depth%20of%20Binary%20Tree.py) | Tree | Easy |
 | [110. Balanced Binary Tree](Tree/110.%20Balanced%20Binary%20Tree.py) | Tree | Easy |
 | [121. Best Time to Buy and Sell Stock](Greedy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) | Greedy | Easy |
@@ -53,8 +54,8 @@
 
 | Count | Difficulty | Chart |
 |---:|:---:|---|
-| 14 | Easy | ██████████████ |
+| 15 | Easy | ███████████████ |
 | 21 | Medium | █████████████████████ |
 | 3 | Hard | ███ |
 
-*Last updated: January 25, 2026*
+*Last updated: January 26, 2026*

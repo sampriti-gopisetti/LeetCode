@@ -2,9 +2,9 @@
 
 ## 📊 Progress Overview
 
-- **Total Problems Solved**: 34
+- **Total Problems Solved**: 38
 - **Languages Used**: Python
-- **Last Updated**: November 22, 2025
+- **Last Updated**: January 25, 2026
 
 ## 🚀 Quick Navigation
 
@@ -25,6 +25,8 @@
 | [74. Search a 2D Matrix](Binary%20Search/74.%20Search%20a%202D%20Matrix.py) | Binary Search | Medium |
 | [76. Minimum Window Substring](Sliding%20Window/76.%20Minimum%20Window%20Substring.py) | Sliding Window | Hard |
 | [84. Largest Rectangle in Histogram](Stack/84.%20Largest%20Rectangle%20in%20Histogram.py) | Stack | Hard |
+| [104. Maximum Depth of Binary Tree](Tree/104.%20Maximum%20Depth%20of%20Binary%20Tree.py) | Tree | Easy |
+| [110. Balanced Binary Tree](Tree/110.%20Balanced%20Binary%20Tree.py) | Tree | Easy |
 | [121. Best Time to Buy and Sell Stock](Greedy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) | Greedy | Easy |
 | [125. Valid Palindrome](Two%20Pointers/125.%20Valid%20Palindrome.py) | Two Pointers | Easy |
 | [128. Longest Consecutive Sequence](Arrays%20%26%20Hashing/128.%20Longest%20Consecutive%20Sequence.py) | Arrays & Hashing | Medium |
@@ -34,6 +36,8 @@
 | [155. Min Stack](Stack/155.%20Min%20Stack.py) | Stack | Medium |
 | [167. Two Sum II - Input Array Is Sorted](Two%20Pointers/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.py) | Two Pointers | Medium |
 | [206. Reverse Linked List](Linked%20List/206.%20Reverse%20Linked%20List.py) | Linked List | Easy |
+| [226. Invert Binary Tree](Tree/226.%20Invert%20Binary%20Tree.py) | Tree | Easy |
+| [543. Diameter of Binary Tree](Tree/543.%20Diameter%20of%20Binary%20Tree.py) | Tree | Easy |
 | [217. Contains Duplicate](Arrays%20%26%20Hashing/217.%20Contains%20Duplicate.py) | Arrays & Hashing | Easy |
 | [238. Product of Array Except Self](Arrays%20%26%20Hashing/238.%20Product%20of%20Array%20Except%20Self.py) | Arrays & Hashing | Medium |
 | [242. Valid Anagram](Arrays%20%26%20Hashing/242.%20Valid%20Anagram.py) | Arrays & Hashing | Easy |
@@ -49,8 +53,8 @@
 
 | Count | Difficulty | Chart |
 |---:|:---:|---|
-| 10 | Easy | ██████████ |
+| 14 | Easy | ██████████████ |
 | 21 | Medium | █████████████████████ |
 | 3 | Hard | ███ |
 
-*Last updated: November 22, 2025*
+*Last updated: January 25, 2026*

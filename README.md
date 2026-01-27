@@ -2,7 +2,7 @@
 
 ## 📊 Progress Overview
 
-- **Total Problems Solved**: 39
+- **Total Problems Solved**: 40
 - **Languages Used**: Python
 - **Last Updated**: January 26, 2026
 
@@ -39,6 +39,7 @@
 | [206. Reverse Linked List](Linked%20List/206.%20Reverse%20Linked%20List.py) | Linked List | Easy |
 | [226. Invert Binary Tree](Tree/226.%20Invert%20Binary%20Tree.py) | Tree | Easy |
 | [543. Diameter of Binary Tree](Tree/543.%20Diameter%20of%20Binary%20Tree.py) | Tree | Easy |
+| [572. Subtree of Another Tree](Tree/572.%20Subtree%20of%20Another%20Tree.py) | Tree | Easy |
 | [217. Contains Duplicate](Arrays%20%26%20Hashing/217.%20Contains%20Duplicate.py) | Arrays & Hashing | Easy |
 | [238. Product of Array Except Self](Arrays%20%26%20Hashing/238.%20Product%20of%20Array%20Except%20Self.py) | Arrays & Hashing | Medium |
 | [242. Valid Anagram](Arrays%20%26%20Hashing/242.%20Valid%20Anagram.py) | Arrays & Hashing | Easy |
@@ -54,7 +55,7 @@
 
 | Count | Difficulty | Chart |
 |---:|:---:|---|
-| 15 | Easy | ███████████████ |
+| 16 | Easy | ████████████████ |
 | 21 | Medium | █████████████████████ |
 | 3 | Hard | ███ |
 

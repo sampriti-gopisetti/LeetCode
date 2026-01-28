@@ -2,9 +2,9 @@
 
 ## 📊 Progress Overview
 
-- **Total Problems Solved**: 40
+- **Total Problems Solved**: 43
 - **Languages Used**: Python
-- **Last Updated**: January 26, 2026
+- **Last Updated**: January 27, 2026
 
 ## 🚀 Quick Navigation
 
@@ -31,11 +31,13 @@
 | [121. Best Time to Buy and Sell Stock](Greedy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) | Greedy | Easy |
 | [125. Valid Palindrome](Two%20Pointers/125.%20Valid%20Palindrome.py) | Two Pointers | Easy |
 | [128. Longest Consecutive Sequence](Arrays%20%26%20Hashing/128.%20Longest%20Consecutive%20Sequence.py) | Arrays & Hashing | Medium |
+| [133. Clone Graph](Graph/133.%20Clone%20Graph.py) | Graph | Medium |
 | [141. Linked List Cycle](Linked%20List/141.%20Linked%20List%20Cycle.py) | Linked List | Easy |
 | [143. Reorder List](Linked%20List/143.%20Reorder%20List.py) | Linked List | Medium |
 | [150. Evaluate Reverse Polish Notation](Stack/150.%20Evaluate%20Reverse%20Polish%20Notation.py) | Stack | Medium |
 | [155. Min Stack](Stack/155.%20Min%20Stack.py) | Stack | Medium |
 | [167. Two Sum II - Input Array Is Sorted](Two%20Pointers/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.py) | Two Pointers | Medium |
+| [200. Number of Islands](Graph/200.%20Number%20of%20Islands.py) | Graph | Medium |
 | [206. Reverse Linked List](Linked%20List/206.%20Reverse%20Linked%20List.py) | Linked List | Easy |
 | [226. Invert Binary Tree](Tree/226.%20Invert%20Binary%20Tree.py) | Tree | Easy |
 | [543. Diameter of Binary Tree](Tree/543.%20Diameter%20of%20Binary%20Tree.py) | Tree | Easy |
@@ -46,6 +48,7 @@
 | [347. Top K Frequent Elements](Arrays%20%26%20Hashing/347.%20Top%20K%20Frequent%20Elements.py) | Arrays & Hashing | Medium |
 | [424. Longest Repeating Character Replacement](Sliding%20Window/424.%20Longest%20Repeating%20Character%20Replacement.py) | Sliding Window | Medium |
 | [567. Permutation in String](Sliding%20Window/567.%20Permutation%20in%20String.py) | Sliding Window | Medium |
+| [695. Max Area of Island](Graph/695.%20Max%20Area%20of%20Island.py) | Graph | Medium |
 | [704. Binary Search](Binary%20Search/704.%20Binary%20Search.py) | Binary Search | Easy |
 | [739. Daily Temperatures](Stack/739.%20Daily%20Temperatures.py) | Stack | Medium |
 | [853. Car Fleet](Stack/853.%20Car%20Fleet.py) | Stack | Medium |
@@ -56,7 +59,7 @@
 | Count | Difficulty | Chart |
 |---:|:---:|---|
 | 16 | Easy | ████████████████ |
-| 21 | Medium | █████████████████████ |
+| 24 | Medium | █████████████████████ |
 | 3 | Hard | ███ |
 
-*Last updated: January 26, 2026*
+*Last updated: January 27, 2026*

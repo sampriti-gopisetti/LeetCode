@@ -4,9 +4,9 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        count = 0
-        while n:
-            count += (n & 1)
-            n >>= 1
-            
-        return count
+        sum=0
+        while n>0:
+            if n%2==1:
+                sum+=1
+            n=n/2
+        return sum

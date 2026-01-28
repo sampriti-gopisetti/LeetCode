@@ -2,7 +2,7 @@
 
 ## 📊 Progress Overview
 
-- **Total Problems Solved**: 43
+- **Total Problems Solved**: 44
 - **Languages Used**: Python
 - **Last Updated**: January 27, 2026
 
@@ -37,6 +37,7 @@
 | [150. Evaluate Reverse Polish Notation](Stack/150.%20Evaluate%20Reverse%20Polish%20Notation.py) | Stack | Medium |
 | [155. Min Stack](Stack/155.%20Min%20Stack.py) | Stack | Medium |
 | [167. Two Sum II - Input Array Is Sorted](Two%20Pointers/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.py) | Two Pointers | Medium |
+| [191. Number of 1 Bits](Bit%20Manipulation/191.%20Number%20of%201%20Bits.py) | Bit Manipulation | Easy |
 | [200. Number of Islands](Graph/200.%20Number%20of%20Islands.py) | Graph | Medium |
 | [206. Reverse Linked List](Linked%20List/206.%20Reverse%20Linked%20List.py) | Linked List | Easy |
 | [226. Invert Binary Tree](Tree/226.%20Invert%20Binary%20Tree.py) | Tree | Easy |
@@ -58,7 +59,7 @@
 
 | Count | Difficulty | Chart |
 |---:|:---:|---|
-| 16 | Easy | ████████████████ |
+| 17 | Easy | ████████████████ |
 | 24 | Medium | █████████████████████ |
 | 3 | Hard | ███ |
 

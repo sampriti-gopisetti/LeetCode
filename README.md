@@ -2,9 +2,9 @@
 
 ## 📊 Progress Overview
 
-- **Total Problems Solved**: 45
+- **Total Problems Solved**: 47
 - **Languages Used**: Python
-- **Last Updated**: January 27, 2026
+- **Last Updated**: February 2, 2026
 
 ## 🚀 Quick Navigation
 
@@ -19,6 +19,7 @@
 | [21. Merge Two Sorted Lists](Linked%20List/21.%20Merge%20Two%20Sorted%20Lists.py) | Linked List | Easy |
 | [19. Remove Nth Node From End of List](Linked%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.py) | Linked List | Medium |
 | [22. Generate Parentheses](Backtracking/22.%20Generate%20Parentheses.py) | Backtracking | Medium |
+| [33. Search in Rotated Sorted Array](Binary%20Search/33.%20Search%20in%20Rotated%20Sorted%20Array.py) | Binary Search | Medium |
 | [36. Valid Sudoku](Arrays%20%26%20Hashing/36.%20Valid%20Sudoku.py) | Arrays & Hashing | Medium |
 | [42. Trapping Rain Water](Two%20Pointers/42.%20Trapping%20Rain%20Water.py) | Two Pointers | Hard |
 | [49. Group Anagrams](Arrays%20%26%20Hashing/49.%20Group%20Anagrams.py) | Arrays & Hashing | Medium |
@@ -35,6 +36,7 @@
 | [141. Linked List Cycle](Linked%20List/141.%20Linked%20List%20Cycle.py) | Linked List | Easy |
 | [143. Reorder List](Linked%20List/143.%20Reorder%20List.py) | Linked List | Medium |
 | [150. Evaluate Reverse Polish Notation](Stack/150.%20Evaluate%20Reverse%20Polish%20Notation.py) | Stack | Medium |
+| [153. Find Minimum in Rotated Sorted Array](Binary%20Search/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.py) | Binary Search | Medium |
 | [155. Min Stack](Stack/155.%20Min%20Stack.py) | Stack | Medium |
 | [167. Two Sum II - Input Array Is Sorted](Two%20Pointers/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.py) | Two Pointers | Medium |
 | [191. Number of 1 Bits](Bit%20Manipulation/191.%20Number%20of%201%20Bits.py) | Bit Manipulation | Easy |
@@ -61,7 +63,7 @@
 | Count | Difficulty | Chart |
 |---:|:---:|---|
 | 18 | Easy | ████████████████ |
-| 24 | Medium | █████████████████████ |
+| 26 | Medium | █████████████████████ |
 | 3 | Hard | ███ |
 
-*Last updated: January 27, 2026*
+*Last updated: February 2, 2026*

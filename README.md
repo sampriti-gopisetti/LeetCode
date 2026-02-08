@@ -2,9 +2,9 @@
 
 ## 📊 Progress Overview
 
-- **Total Problems Solved**: 47
+- **Total Problems Solved**: 48
 - **Languages Used**: Python
-- **Last Updated**: February 2, 2026
+- **Last Updated**: February 8, 2026
 
 ## 🚀 Quick Navigation
 
@@ -39,6 +39,7 @@
 | [153. Find Minimum in Rotated Sorted Array](Binary%20Search/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.py) | Binary Search | Medium |
 | [155. Min Stack](Stack/155.%20Min%20Stack.py) | Stack | Medium |
 | [167. Two Sum II - Input Array Is Sorted](Two%20Pointers/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.py) | Two Pointers | Medium |
+| [190. Reverse Bits](Bit%20Manipulation/190.%20Reverse%20Bits.py) | Bit Manipulation | Easy |
 | [191. Number of 1 Bits](Bit%20Manipulation/191.%20Number%20of%201%20Bits.py) | Bit Manipulation | Easy |
 | [200. Number of Islands](Graph/200.%20Number%20of%20Islands.py) | Graph | Medium |
 | [206. Reverse Linked List](Linked%20List/206.%20Reverse%20Linked%20List.py) | Linked List | Easy |
@@ -62,8 +63,8 @@
 
 | Count | Difficulty | Chart |
 |---:|:---:|---|
-| 18 | Easy | ████████████████ |
+| 19 | Easy | █████████████████ |
 | 26 | Medium | █████████████████████ |
 | 3 | Hard | ███ |
 
-*Last updated: February 2, 2026*
+*Last updated: February 8, 2026*

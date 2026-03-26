@@ -2,9 +2,9 @@
 
 ## 📊 Progress Overview
 
-- **Total Problems Solved**: 49
+- **Total Problems Solved**: 50
 - **Languages Used**: Python, C++
-- **Last Updated**: March 25, 2026
+- **Last Updated**: March 26, 2026
 
 ## 🚀 Quick Navigation
 
@@ -58,14 +58,15 @@
 | [704. Binary Search](Binary%20Search/704.%20Binary%20Search.py) | Binary Search | Easy |
 | [739. Daily Temperatures](Stack/739.%20Daily%20Temperatures.py) | Stack | Medium |
 | [853. Car Fleet](Stack/853.%20Car%20Fleet.py) | Stack | Medium |
+| [Meeting Rooms](Intervals/Meeting%20Rooms.cpp) | Intervals | Easy |
 | [Encode and Decode Strings](Arrays%20%26%20Hashing/Encode%20and%20Decode%20Strings.py) | Arrays & Hashing | Medium |
 
 ## 💡 Problem Difficulty Distribution
 
 | Count | Difficulty | Chart |
 |---:|:---:|---|
-| 20 | Easy | ██████████████████ |
+| 21 | Easy | ███████████████████ |
 | 26 | Medium | █████████████████████ |
 | 3 | Hard | ███ |
 
-*Last updated: March 25, 2026*
+*Last updated: March 26, 2026*

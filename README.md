@@ -60,7 +60,7 @@
 | [567. Permutation in String](Sliding%20Window/567.%20Permutation%20in%20String.py) | Sliding Window | Medium |
 | [695. Max Area of Island](Graph/695.%20Max%20Area%20of%20Island.py) | Graph | Medium |
 | [704. Binary Search](Binary%20Search/704.%20Binary%20Search.py) | Binary Search | Easy |
-| [746. Min Cost Climbing Stairs](Math%20%26%20Geometry/746.%20Min%20Cost%20Climbing%20Stairs.cpp) | Math & Geometry | Easy |
+| [746. Min Cost Climbing Stairs](Math%20%26%20Geometry/746.%20Min%20Cost%20Climbing%20Stairs.cpp) | 1-D Dynamic Programming | Easy |
 | [739. Daily Temperatures](Stack/739.%20Daily%20Temperatures.py) | Stack | Medium |
 | [853. Car Fleet](Stack/853.%20Car%20Fleet.py) | Stack | Medium |
 | [Meeting Rooms](Intervals/Meeting%20Rooms.cpp) | Intervals | Easy |

@@ -2,7 +2,7 @@
 
 ## 📊 Progress Overview
 
-- **Total Problems Solved**: 53
+- **Total Problems Solved**: 54
 - **Languages Used**: Python, C++
 - **Last Updated**: March 26, 2026
 
@@ -23,6 +23,7 @@
 | [36. Valid Sudoku](Arrays%20%26%20Hashing/36.%20Valid%20Sudoku.py) | Arrays & Hashing | Medium |
 | [42. Trapping Rain Water](Two%20Pointers/42.%20Trapping%20Rain%20Water.py) | Two Pointers | Hard |
 | [49. Group Anagrams](Arrays%20%26%20Hashing/49.%20Group%20Anagrams.py) | Arrays & Hashing | Medium |
+| [66. Plus One](Math%20%26%20Geometry/66.%20Plus%20One.cpp) | Math & Geometry | Easy |
 | [70. Climbing Stairs](1-D%20Dynamic%20Programming/70.%20Climbing%20Stairs.cpp) | 1-D Dynamic Programming | Easy |
 | [74. Search a 2D Matrix](Binary%20Search/74.%20Search%20a%202D%20Matrix.py) | Binary Search | Medium |
 | [76. Minimum Window Substring](Sliding%20Window/76.%20Minimum%20Window%20Substring.py) | Sliding Window | Hard |
@@ -68,7 +69,7 @@
 
 | Count | Difficulty | Chart |
 |---:|---|---|
-| 24 | Easy | █████████████████████ |
+| 25 | Easy | ██████████████████████ |
 | 26 | Medium | █████████████████████ |
 | 3 | Hard | ███ |
 

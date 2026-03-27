@@ -2,7 +2,7 @@
 
 ## 📊 Progress Overview
 
-- **Total Problems Solved**: 55
+- **Total Problems Solved**: 56
 - **Languages Used**: Python, C++
 - **Last Updated**: March 26, 2026
 
@@ -59,6 +59,7 @@
 | [424. Longest Repeating Character Replacement](Sliding%20Window/424.%20Longest%20Repeating%20Character%20Replacement.py) | Sliding Window | Medium |
 | [567. Permutation in String](Sliding%20Window/567.%20Permutation%20in%20String.py) | Sliding Window | Medium |
 | [695. Max Area of Island](Graph/695.%20Max%20Area%20of%20Island.py) | Graph | Medium |
+| [703. Kth Largest Element in a Stream](Heap/Priority%20Queue/703.%20Kth%20Largest%20Element%20in%20a%20Stream.cpp) | Heap/Priority Queue | Easy |
 | [704. Binary Search](Binary%20Search/704.%20Binary%20Search.py) | Binary Search | Easy |
 | [746. Min Cost Climbing Stairs](Math%20%26%20Geometry/746.%20Min%20Cost%20Climbing%20Stairs.cpp) | 1-D Dynamic Programming | Easy |
 | [739. Daily Temperatures](Stack/739.%20Daily%20Temperatures.py) | Stack | Medium |
@@ -70,7 +71,7 @@
 
 | Count | Difficulty | Chart |
 |---:|---|---|
-| 26 | Easy | ███████████████████████ |
+| 27 | Easy | ████████████████████████ |
 | 26 | Medium | █████████████████████ |
 | 3 | Hard | ███ |
 

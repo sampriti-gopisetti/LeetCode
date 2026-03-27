@@ -2,7 +2,7 @@
 
 ## 📊 Progress Overview
 
-- **Total Problems Solved**: 56
+- **Total Problems Solved**: 57
 - **Languages Used**: Python, C++
 - **Last Updated**: March 26, 2026
 
@@ -30,6 +30,7 @@
 | [84. Largest Rectangle in Histogram](Stack/84.%20Largest%20Rectangle%20in%20Histogram.py) | Stack | Hard |
 | [100. Same Tree](Tree/100.%20Same%20Tree.py) | Tree | Easy |
 | [104. Maximum Depth of Binary Tree](Tree/104.%20Maximum%20Depth%20of%20Binary%20Tree.py) | Tree | Easy |
+| [1046. Last Stone Weight](Heap/Priority%20Queue/1046.%20Last%20Stone%20Weight.cpp) | Heap/Priority Queue | Easy |
 | [110. Balanced Binary Tree](Tree/110.%20Balanced%20Binary%20Tree.py) | Tree | Easy |
 | [121. Best Time to Buy and Sell Stock](Sliding%20Window/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) | Sliding Window | Easy |
 | [125. Valid Palindrome](Two%20Pointers/125.%20Valid%20Palindrome.py) | Two Pointers | Easy |
@@ -71,7 +72,7 @@
 
 | Count | Difficulty | Chart |
 |---:|---|---|
-| 27 | Easy | ████████████████████████ |
+| 28 | Easy | █████████████████████████ |
 | 26 | Medium | █████████████████████ |
 | 3 | Hard | ███ |
 

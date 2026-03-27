@@ -2,7 +2,7 @@
 
 ## 📊 Progress Overview
 
-- **Total Problems Solved**: 52
+- **Total Problems Solved**: 53
 - **Languages Used**: Python, C++
 - **Last Updated**: March 26, 2026
 
@@ -30,7 +30,7 @@
 | [100. Same Tree](Tree/100.%20Same%20Tree.py) | Tree | Easy |
 | [104. Maximum Depth of Binary Tree](Tree/104.%20Maximum%20Depth%20of%20Binary%20Tree.py) | Tree | Easy |
 | [110. Balanced Binary Tree](Tree/110.%20Balanced%20Binary%20Tree.py) | Tree | Easy |
-| [121. Best Time to Buy and Sell Stock](Greedy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) | Greedy | Easy |
+| [121. Best Time to Buy and Sell Stock](Sliding%20Window/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) | Sliding Window | Easy |
 | [125. Valid Palindrome](Two%20Pointers/125.%20Valid%20Palindrome.py) | Two Pointers | Easy |
 | [128. Longest Consecutive Sequence](Arrays%20%26%20Hashing/128.%20Longest%20Consecutive%20Sequence.py) | Arrays & Hashing | Medium |
 | [133. Clone Graph](Graph/133.%20Clone%20Graph.py) | Graph | Medium |
@@ -44,6 +44,7 @@
 | [190. Reverse Bits](Bit%20Manipulation/190.%20Reverse%20Bits.py) | Bit Manipulation | Easy |
 | [191. Number of 1 Bits](Bit%20Manipulation/191.%20Number%20of%201%20Bits.py) | Bit Manipulation | Easy |
 | [200. Number of Islands](Graph/200.%20Number%20of%20Islands.py) | Graph | Medium |
+| [202. Happy Number](Math%20%26%20Geometry/202.%20Happy%20Number.cpp) | Math & Geometry | Easy |
 | [206. Reverse Linked List](Linked%20List/206.%20Reverse%20Linked%20List.py) | Linked List | Easy |
 | [226. Invert Binary Tree](Tree/226.%20Invert%20Binary%20Tree.py) | Tree | Easy |
 | [543. Diameter of Binary Tree](Tree/543.%20Diameter%20of%20Binary%20Tree.py) | Tree | Easy |
@@ -67,7 +68,7 @@
 
 | Count | Difficulty | Chart |
 |---:|---|---|
-| 23 | Easy | ████████████████████ |
+| 24 | Easy | █████████████████████ |
 | 26 | Medium | █████████████████████ |
 | 3 | Hard | ███ |
 

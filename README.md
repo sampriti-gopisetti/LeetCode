@@ -2,7 +2,7 @@
 
 ## 📊 Progress Overview
 
-- **Total Problems Solved**: 51
+- **Total Problems Solved**: 52
 - **Languages Used**: Python, C++
 - **Last Updated**: March 26, 2026
 
@@ -34,6 +34,7 @@
 | [125. Valid Palindrome](Two%20Pointers/125.%20Valid%20Palindrome.py) | Two Pointers | Easy |
 | [128. Longest Consecutive Sequence](Arrays%20%26%20Hashing/128.%20Longest%20Consecutive%20Sequence.py) | Arrays & Hashing | Medium |
 | [133. Clone Graph](Graph/133.%20Clone%20Graph.py) | Graph | Medium |
+| [136. Single Number](Bit%20Manipulation/136.%20Single%20Number.cpp) | Bit Manipulation | Easy |
 | [141. Linked List Cycle](Linked%20List/141.%20Linked%20List%20Cycle.py) | Linked List | Easy |
 | [143. Reorder List](Linked%20List/143.%20Reorder%20List.py) | Linked List | Medium |
 | [150. Evaluate Reverse Polish Notation](Stack/150.%20Evaluate%20Reverse%20Polish%20Notation.py) | Stack | Medium |
@@ -65,8 +66,8 @@
 ## 💡 Problem Difficulty Distribution
 
 | Count | Difficulty | Chart |
-|--2 | Easy | |
-| 21 | Easy | ███████████████████ |
+|---:|---|---|
+| 23 | Easy | ████████████████████ |
 | 26 | Medium | █████████████████████ |
 | 3 | Hard | ███ |
 

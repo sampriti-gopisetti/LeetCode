@@ -2,9 +2,9 @@
 
 ## 📊 Progress Overview
 
-- **Total Problems Solved**: 57
+- **Total Problems Solved**: 58
 - **Languages Used**: Python, C++
-- **Last Updated**: March 26, 2026
+- **Last Updated**: May 27, 2026
 
 ## 🚀 Quick Navigation
 
@@ -14,6 +14,7 @@
 | [2. Add Two Numbers](Linked%20List/2.%20Add%20Two%20Numbers.py) | Linked List | Medium |
 | [3. Longest Substring Without Repeating Characters](Sliding%20Window/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py) | Sliding Window | Medium |
 | [11. Container With Most Water](Two%20Pointers/11.%20Container%20With%20Most%20Water.py) | Two Pointers | Medium |
+| [13. Roman to Integer](Math%20%26%20Geometry/13.%20Roman%20to%20Integer.py) | Math & Geometry | Easy |
 | [15. 3Sum](Two%20Pointers/15.%203Sum.py) | Two Pointers | Medium |
 | [20. Valid Parentheses](Stack/20.%20Valid%20Parentheses.py) | Stack | Easy |
 | [21. Merge Two Sorted Lists](Linked%20List/21.%20Merge%20Two%20Sorted%20Lists.py) | Linked List | Easy |
@@ -72,8 +73,8 @@
 
 | Count | Difficulty | Chart |
 |---:|---|---|
-| 28 | Easy | █████████████████████████ |
+| 29 | Easy | ██████████████████████████ |
 | 26 | Medium | █████████████████████ |
 | 3 | Hard | ███ |
 
-*Last updated: March 26, 2026*
+*Last updated: May 27, 2026*

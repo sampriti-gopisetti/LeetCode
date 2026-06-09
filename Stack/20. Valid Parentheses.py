@@ -1,32 +1,18 @@
-class Solution(object):
-    def push(self,item):
-        self.pointer+=1
-        self.stack.append(item) 
-
-    def pop(self):
-        item=self.stack.pop()
-        self.pointer-=1
-        return item
-
-    def isValid(self, s):
-        brackets={'(':')','{':'}','[':']'}
+class Solution:
+    def isValid(self, s: str) -> bool:
+        stack=[]
+        top=-1
+        close_char={')':'(',']':'[','}':'{'}
         for i in s:
-            if i in brackets:
-                self.push(i)
+            if i in close_char.values():
+                stack.append(i)
+                top+=1
+            elif top>-1 and close_char[i]==stack[top]:
+                stack.pop()
+                top-=1
             else:
-                if self.pointer!=-1:
-                    item=self.pop()
-                    if brackets[item]==i:
-                        continue
-                    else:
-                        return False
-                else:
-                    return False
-        if self.pointer==-1:
-            return True
-        else:
+                return False
+        if top>-1:
             return False
-    
-    def __init__(self):
-        self.stack=[]
-        self.pointer=-1
+        else:
+            return True

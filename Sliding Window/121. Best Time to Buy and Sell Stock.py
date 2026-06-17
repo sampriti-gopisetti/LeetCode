@@ -1,17 +1,10 @@
 class Solution:
-    def maxProfit(self, prices: List[int]) -> int: # type: ignore
-        profits=[]
-        minimum=0
-        maximum=1
-        if len(prices)==1:
-            return 0
-        while maximum<len(prices):
-            profits.append(prices[maximum]-prices[minimum])
-            if prices[maximum]<prices[minimum]:
-                minimum=maximum
-            maximum+=1
-        profit=max(profits)
-        if profit<=0:
-            return 0
-        else:
-            return profit
+    def maxProfit(self, prices: List[int]) -> int:
+        min_val=float('inf')
+        max_val=0
+        for price in prices:
+            if price<min_val:
+                min_val=price
+            elif price-min_val>max_val:
+                max_val=price-min_val
+        return max_val

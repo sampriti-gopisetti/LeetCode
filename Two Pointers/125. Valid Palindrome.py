@@ -1,22 +1,9 @@
-class Solution(object):
-    def isPalindrome(self, s):
-        """
-        :type s: str
-        :rtype: bool
-        """
-        s=list(s.lower())
-        dup=[]
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
+        if len(s)<=1:
+            return True
+        characters=''
         for char in s:
             if char.isalnum():
-                dup.append(char)
-        start=len(dup)-1
-        count=0
-        print(len(dup))
-        for i in range(0,len(dup)/2):
-            if dup[start]==dup[i]:
-                count=count+1
-            start=start-1
-        if count==len(dup)/2:
-            return True
-        else:
-            return False
+                characters+=char.lower()
+        return characters==characters[::-1]

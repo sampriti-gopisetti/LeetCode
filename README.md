@@ -2,7 +2,7 @@
 
 ## 📊 Progress Overview
 
-- **Total Problems Solved**: 59
+- **Total Problems Solved**: 60
 - **Languages Used**: Python, C++
 - **Last Updated**: June 1, 2026
 
@@ -59,6 +59,7 @@
 | [268. Missing Number](Bit%20Manipulation/268.%20Missing%20Number.cpp) | Bit Manipulation | Easy |
 | [338. Counting Bits](Bit%20Manipulation/338.%20Counting%20Bits.py) | Bit Manipulation | Easy |
 | [347. Top K Frequent Elements](Arrays%20%26%20Hashing/347.%20Top%20K%20Frequent%20Elements.py) | Arrays & Hashing | Medium |
+| [3903. Smallest Stable Index I](Arrays%20%26%20Hashing/3903.%20Smallest%20Stable%20Index%20I.py) | Arrays & Hashing | Easy |
 | [424. Longest Repeating Character Replacement](Sliding%20Window/424.%20Longest%20Repeating%20Character%20Replacement.py) | Sliding Window | Medium |
 | [567. Permutation in String](Sliding%20Window/567.%20Permutation%20in%20String.py) | Sliding Window | Medium |
 | [695. Max Area of Island](Graph/695.%20Max%20Area%20of%20Island.py) | Graph | Medium |
@@ -74,8 +75,8 @@
 
 | Count | Difficulty | Chart |
 |---:|---|---|
-| 30 | Easy | ██████████████████████████ |
+| 31 | Easy | ███████████████████████████ |
 | 26 | Medium | █████████████████████ |
 | 3 | Hard | ███ |
 
-*Last updated: June 1, 2026*
+*Last updated: September 3, 2026*

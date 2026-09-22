@@ -4,7 +4,7 @@
 
 - **Total Problems Solved**: 60
 - **Languages Used**: Python, C++
-- **Last Updated**: June 1, 2026
+- **Last Updated**: September 22, 2026
 
 ## 🚀 Quick Navigation
 
@@ -53,7 +53,7 @@
 | [226. Invert Binary Tree](Tree/226.%20Invert%20Binary%20Tree.py) | Tree | Easy |
 | [543. Diameter of Binary Tree](Tree/543.%20Diameter%20of%20Binary%20Tree.py) | Tree | Easy |
 | [572. Subtree of Another Tree](Tree/572.%20Subtree%20of%20Another%20Tree.py) | Tree | Easy |
-| [217. Contains Duplicate](Arrays%20%26%20Hashing/217.%20Contains%20Duplicate.py) | Arrays & Hashing | Easy |
+| [217. Contains Duplicate (Python)](Arrays%20%26%20Hashing/217.%20Contains%20Duplicate.py) / [C++](Arrays%20%26%20Hashing/217.%20Contains%20Duplicate.cpp) | Arrays & Hashing | Easy |
 | [238. Product of Array Except Self](Arrays%20%26%20Hashing/238.%20Product%20of%20Array%20Except%20Self.py) | Arrays & Hashing | Medium |
 | [242. Valid Anagram](Arrays%20%26%20Hashing/242.%20Valid%20Anagram.py) | Arrays & Hashing | Easy |
 | [268. Missing Number](Bit%20Manipulation/268.%20Missing%20Number.cpp) | Bit Manipulation | Easy |
@@ -65,7 +65,7 @@
 | [695. Max Area of Island](Graph/695.%20Max%20Area%20of%20Island.py) | Graph | Medium |
 | [703. Kth Largest Element in a Stream](Heap/Priority%20Queue/703.%20Kth%20Largest%20Element%20in%20a%20Stream.cpp) | Heap/Priority Queue | Easy |
 | [704. Binary Search](Binary%20Search/704.%20Binary%20Search.py) | Binary Search | Easy |
-| [746. Min Cost Climbing Stairs](Math%20%26%20Geometry/746.%20Min%20Cost%20Climbing%20Stairs.cpp) | 1-D Dynamic Programming | Easy |
+| [746. Min Cost Climbing Stairs](1-D%20Dynamic%20Programming/746.%20Min%20Cost%20Climbing%20Stairs.cpp) | 1-D Dynamic Programming | Easy |
 | [739. Daily Temperatures](Stack/739.%20Daily%20Temperatures.py) | Stack | Medium |
 | [853. Car Fleet](Stack/853.%20Car%20Fleet.py) | Stack | Medium |
 | [Meeting Rooms](Intervals/Meeting%20Rooms.cpp) | Intervals | Easy |
@@ -79,4 +79,4 @@
 | 26 | Medium | █████████████████████ |
 | 3 | Hard | ███ |
 
-*Last updated: September 3, 2026*
+*Last updated: September 22, 2026*

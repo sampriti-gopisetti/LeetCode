@@ -4,7 +4,7 @@
 
 - **Total Problems Solved**: 60
 - **Languages Used**: Python, C++
-- **Last Updated**: September 22, 2026
+- **Last Updated**: September 29, 2026
 
 ## 🚀 Quick Navigation
 
@@ -55,7 +55,7 @@
 | [572. Subtree of Another Tree](Tree/572.%20Subtree%20of%20Another%20Tree.py) | Tree | Easy |
 | [217. Contains Duplicate (Python)](Arrays%20%26%20Hashing/217.%20Contains%20Duplicate.py) / [C++](Arrays%20%26%20Hashing/217.%20Contains%20Duplicate.cpp) | Arrays & Hashing | Easy |
 | [238. Product of Array Except Self](Arrays%20%26%20Hashing/238.%20Product%20of%20Array%20Except%20Self.py) | Arrays & Hashing | Medium |
-| [242. Valid Anagram](Arrays%20%26%20Hashing/242.%20Valid%20Anagram.py) | Arrays & Hashing | Easy |
+| [242. Valid Anagram (Python)](Arrays%20%26%20Hashing/242.%20Valid%20Anagram.py) / [C++](Arrays%20%26%20Hashing/242.%20Valid%20Anagram.cpp) | Arrays & Hashing | Easy |
 | [268. Missing Number](Bit%20Manipulation/268.%20Missing%20Number.cpp) | Bit Manipulation | Easy |
 | [338. Counting Bits](Bit%20Manipulation/338.%20Counting%20Bits.py) | Bit Manipulation | Easy |
 | [347. Top K Frequent Elements](Arrays%20%26%20Hashing/347.%20Top%20K%20Frequent%20Elements.py) | Arrays & Hashing | Medium |
@@ -79,4 +79,4 @@
 | 26 | Medium | █████████████████████ |
 | 3 | Hard | ███ |
 
-*Last updated: September 22, 2026*
+*Last updated: September 29, 2026*
